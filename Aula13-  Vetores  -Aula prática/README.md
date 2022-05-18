@@ -5,7 +5,7 @@
    - while
    - do-while
 
-###Vamos praticar a manipulação de vetores com laços de repetição
+#Vamos praticar a manipulação de vetores com laços de repetição
 
 **Criar um projeto java onde o main deve servir de menu para cada execução dos exercícios:**
 
@@ -36,6 +36,7 @@ Opções no menu;
       * Caso responda não
        * Sair da repetição de inicializações
         * Exibir todos os valores do vetor
+       
        
 ![java.](https://th.bing.com/th/id/R.f45fefd99681e104506b75cfccab3034?rik=iirBwLwKDUvP6Q&riu=http%3a%2f%2f31.media.tumblr.com%2f0756b058602d80a143c20470a4f744ea%2ftumblr_mthkhaawyA1qcx6w9o1_500.gif&ehk=xn%2fGjXpuxoYu6H7n40Zs9W39dsmoC%2bYOHnZb03T3RYY%3d&risl=&pid=ImgRaw&r=0 "Java!")
       
