@@ -15,7 +15,7 @@ Repositório com as práticas realizadas em aula
 
 | AULA | ASSUNTO |
 |------|---------|
-|Aula 02 - 01|[Variáveis](./Aula%2002%20-%2001%20-%20Variaveis/)                                    
+|Aula 02 - 01|[Variáveis](https://github.com/ThataSantos/entra21-aulas-logica-java/tree/main/Aula02%20-%2001%20-%20Variaveis)                                    
 |Aula 02 - 02|[Constantes](./Aula%2002%20-%2002%20-%20Constantes/)
 |Aula 03 - 01|[Operadores Aritméticos](./Aula%2003%20-%2001%20-%20Operadores%20Aritméticos/)
 |Aula 03 - 02|[Incremento e Decremento](./Aula%2003%20-%2002%20-%20Incremente%20e%20Decremento/)
